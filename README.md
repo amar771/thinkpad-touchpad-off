@@ -11,7 +11,9 @@ To make it run on login:
 ```
 
   Add it to the first one of these starting from top:
-   * ~/.bash_profile
-   * ~/.bash_login
-   * ~/.profile
-    
+  
+  ```
+   ~/.bash_profile
+   ~/.bash_login
+   ~/.profile
+```
